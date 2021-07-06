@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tRJkw/QRMFTRZUp4jDLWx+TpZh8Gk0womAEXBLXyiYQorW9FL+7Zcc//ZNuSeJTa+I+ego2HE1n8Kb2mc/CJVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\QuickDocsCheck\\ConsoleAppFSharp\\ConsoleAppFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

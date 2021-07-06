@@ -1,0 +1,19 @@
+<#@ template language="C#" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ assembly name="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" #>
+<#@ import namespace="System.Xml" #>
+
+<#
+    for (int i = 0; i < 10; i++)
+        WriteLine($"Hello World {i}");
+#>
+<#
+    var doc = new XmlDocument();
+    // Replace this file path with yours:
+    doc.Load(@"C:\MySolution\MyProject\exampleXml.xml");
+    var SpecialString1 = "";
+    foreach (XmlNode node in doc.SelectNodes("//*"))
+    {
+    }
+#>

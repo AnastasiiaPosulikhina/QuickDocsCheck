@@ -1,0 +1,6 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryClassic\bin\Debug\ClassLibraryClassic.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryClassic\bin\Debug\ClassLibraryClassic.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryClassic\obj\Debug\ClassLibraryClassic.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryClassic\obj\Debug\ClassLibraryClassic.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryClassic\obj\Debug\ClassLibraryClassic.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryClassic\obj\Debug\ClassLibraryClassic.pdb

@@ -1,0 +1,6 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\AmbiguousSymbols\obj\Debug\net5.0\AmbiguousSymbols.csprojAssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\AmbiguousSymbols\obj\Debug\net5.0\AmbiguousSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\AmbiguousSymbols\obj\Debug\net5.0\AmbiguousSymbols.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\AmbiguousSymbols\obj\Debug\net5.0\AmbiguousSymbols.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\AmbiguousSymbols\obj\Debug\net5.0\AmbiguousSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\AmbiguousSymbols\obj\Debug\net5.0\AmbiguousSymbols.csproj.AssemblyReference.cache

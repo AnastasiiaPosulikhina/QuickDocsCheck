@@ -1,0 +1,12 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\bin\Debug\net5.0\ClassLibraryCoreWithSummaries.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\bin\Debug\net5.0\ClassLibraryCoreWithSummaries.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\bin\Debug\net5.0\ref\ClassLibraryCoreWithSummaries.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\bin\Debug\net5.0\ClassLibraryCoreWithSummaries.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\obj\Debug\net5.0\ClassLibraryCoreWithSummaries.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\obj\Debug\net5.0\ClassLibraryCoreWithSummaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\obj\Debug\net5.0\ClassLibraryCoreWithSummaries.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\obj\Debug\net5.0\ClassLibraryCoreWithSummaries.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\obj\Debug\net5.0\ClassLibraryCoreWithSummaries.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\obj\Debug\net5.0\ClassLibraryCoreWithSummaries.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\obj\Debug\net5.0\ref\ClassLibraryCoreWithSummaries.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ClassLibraryCoreWithSummaries\obj\Debug\net5.0\ClassLibraryCoreWithSummaries.pdb

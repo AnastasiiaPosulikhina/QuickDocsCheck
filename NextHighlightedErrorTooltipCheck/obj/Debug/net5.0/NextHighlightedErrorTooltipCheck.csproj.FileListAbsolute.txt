@@ -1,0 +1,5 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\NextHighlightedErrorTooltipCheck\obj\Debug\net5.0\NextHighlightedErrorTooltipCheck.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\NextHighlightedErrorTooltipCheck\obj\Debug\net5.0\NextHighlightedErrorTooltipCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\NextHighlightedErrorTooltipCheck\obj\Debug\net5.0\NextHighlightedErrorTooltipCheck.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\NextHighlightedErrorTooltipCheck\obj\Debug\net5.0\NextHighlightedErrorTooltipCheck.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\NextHighlightedErrorTooltipCheck\obj\Debug\net5.0\NextHighlightedErrorTooltipCheck.csproj.CoreCompileInputs.cache

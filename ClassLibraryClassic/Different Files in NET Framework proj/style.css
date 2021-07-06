@@ -1,0 +1,42 @@
+﻿.ball{
+    width: 150px;
+    height: 150px;
+    border: 3px;
+    border-radius: 50%;
+    position: relative;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    line-height: 150px;
+    margin-top: 20px;
+}
+
+#ball1{
+    background-color: #d75252;
+}
+
+#ball2{
+    background-color: #eea017;
+}
+
+#ball3{
+    background-color: #0abf0a;
+}
+
+@keyframes bounce {
+    0% {
+        margin-left: 0;
+    }
+
+    50% {
+        margin-left: 90vw;
+    }
+
+    100% {
+        margin-left: 0;
+    }
+}
+
+.move-right {
+    animation: bounce 5s infinite;
+}
