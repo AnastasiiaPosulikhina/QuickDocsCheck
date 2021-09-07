@@ -4,6 +4,8 @@ Module Program
         Sub Main(args As String())
                 Console.WriteLine("Hello World!")
                 Foo()
+                Foo()
+                
         End Sub
         
         Sub Foo

@@ -13,6 +13,7 @@ namespace AmbiguosSymbols
             Console.WriteLine("Hello World!" + c);
             
             var dataTable = new DataTable();
+            Attribute a;
 
             foreach (DataRow row in dataTable.Rows)
             {

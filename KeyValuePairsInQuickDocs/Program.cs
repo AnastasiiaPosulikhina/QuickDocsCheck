@@ -18,8 +18,7 @@ namespace KeyValuePairsInQuickDocs
             Tuple<string, List<int>> tuple = new Tuple<string, List<int>>("string", new List<int>());
             
             Account<int> account1 = new Account<int> { Sum = 5000 };
-            account1.Id = 2;      
-            uint num;
+            account1.Id = 2;    
             int id1 = account1.Id;  
             Console.WriteLine(id1);
             

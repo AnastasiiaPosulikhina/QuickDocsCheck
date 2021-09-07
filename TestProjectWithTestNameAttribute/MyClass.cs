@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 
 namespace TestProjectWithTestNameAttribute
 {
@@ -16,10 +17,11 @@ namespace TestProjectWithTestNameAttribute
         private int _y;
 
         
-        void Method()
+        void Method([A(typeof(int))] int value)
         {
             _x = 5;
             Console.WriteLine(_x);
+            Method(3);
         }
     }
 }

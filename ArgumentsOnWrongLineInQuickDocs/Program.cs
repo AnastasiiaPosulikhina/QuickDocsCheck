@@ -16,6 +16,8 @@ namespace ArgumentsOnWrongLineInQuickDocs
             Method(new Element(), out number);
         }
 
+
+
         public static List<int> Method(
             this Element element, 
             out int number, 

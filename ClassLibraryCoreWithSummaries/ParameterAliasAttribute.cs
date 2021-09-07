@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace d
 {
+      
       /// <summary>
       /// This is a summary
       /// </summary>
@@ -22,12 +23,27 @@ namespace d
       /// <summary>
       /// You may have some primary information about this interface.
       /// </summary>
-      public interface ITestInterface
+      public interface ITestInterface1
       {
       }
-
-      ///<inheritdoc cref="ITestInterface"/>
-      public class TestClass : ITestInterface
+      
+      public interface ITestInterface2
+      {
+      }
+      
+      /// <summary>
+      /// Summary
+      /// </summary>
+      /// <remarks>
+      /// See <see cref="ITestInterface1"/> for details
+      /// </remarks>
+      ///<see cref="ITestInterface2"/>
+      public class TestClass1 : ITestInterface1
+      {
+      }
+      
+      ///<inheritdoc cref="ITestInterface2"/>
+      public class TestClass2 : ITestInterface2
       {
       }
       
