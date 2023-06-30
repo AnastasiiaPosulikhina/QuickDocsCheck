@@ -6,7 +6,6 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlight
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\bin\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.runtimeconfig.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\bin\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.runtimeconfig.dev.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\bin\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.dll
-C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\bin\Debug\net5.0\ref\ChecksSyntaxHighlightingInAttributes.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\bin\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\bin\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.Views.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\bin\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.Views.pdb
@@ -56,3 +55,9 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlight
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.genruntimeconfig.cache
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\ChecksSyntaxHighlightingInAttributes.csproj.CopyComplete
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\staticwebassets\ChecksSyntaxHighlightingInAttributes.StaticWebAssets.Pack.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\staticwebassets\msbuild.ChecksSyntaxHighlightingInAttributes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\staticwebassets\msbuild.build.ChecksSyntaxHighlightingInAttributes.props
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ChecksSyntaxHighlightingInAttributes.props
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ChecksSyntaxHighlightingInAttributes.props
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\obj\Debug\net5.0\refint\ChecksSyntaxHighlightingInAttributes.dll

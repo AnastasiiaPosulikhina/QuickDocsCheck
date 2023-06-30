@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bapSddBaVhiiydwRkSnc+AajPY8j1ck4bcS/OQEw+WO7lC0TOmvK75gmuhaECbh0XgFr0x0dKsc9smSFVjcD3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\QuickDocsCheck\\ConsoleAppTargetingMultipleFrameworks\\ConsoleAppTargetingMultipleFrameworks.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\fsharp.core\\7.0.400-beta.23221.1\\fsharp.core.7.0.400-beta.23221.1.nupkg.sha512"
+  ],
+  "logs": []
+}

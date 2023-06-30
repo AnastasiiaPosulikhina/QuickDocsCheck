@@ -3,7 +3,6 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineI
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\bin\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.runtimeconfig.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\bin\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.runtimeconfig.dev.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\bin\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.dll
-C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\bin\Debug\net5.0\ref\ArgumentsOnWrongLineInQuickDocs.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\bin\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\obj\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\obj\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.AssemblyInfoInputs.cache
@@ -13,3 +12,5 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineI
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\obj\Debug\net5.0\ref\ArgumentsOnWrongLineInQuickDocs.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\obj\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\obj\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\obj\Debug\net5.0\ArgumentsOnWrongLineInQuickDocs.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ArgumentsOnWrongLineInQuickDocs\obj\Debug\net5.0\refint\ArgumentsOnWrongLineInQuickDocs.dll

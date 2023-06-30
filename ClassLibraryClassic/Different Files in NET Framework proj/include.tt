@@ -15,5 +15,6 @@
     var SpecialString1 = "";
     foreach (XmlNode node in doc.SelectNodes("//*"))
     {
+Console.
     }
 #>

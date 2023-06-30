@@ -25,3 +25,4 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ConsoleAppFSharp\obj\
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ConsoleAppFSharp\obj\Debug\net5.0\ConsoleAppFSharp.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ConsoleAppFSharp\obj\Debug\net5.0\ConsoleAppFSharp.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ConsoleAppFSharp\obj\Debug\net5.0\ConsoleAppFSharp.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ConsoleAppFSharp\obj\Debug\net5.0\ConsoleAppFSharp.fsproj.CoreCompileInputs.cache

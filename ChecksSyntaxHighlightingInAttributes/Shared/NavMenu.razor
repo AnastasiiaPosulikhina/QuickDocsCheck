@@ -1,4 +1,5 @@
-﻿<div class="top-row pl-4 navbar navbar-dark">
+﻿@using ClassLibraryCore
+<div class="top-row pl-4 navbar navbar-dark">
     <a class="navbar-brand" href="">ChecksSyntaxHighlightingInAttributes</a>
     <button class="navbar-toggler" @onclick="ToggleNavMenu">
         <span class="navbar-toggler-icon"></span>
@@ -26,6 +27,9 @@
 </div>
 
 @code {
+    public static string Value;
+    public static List<string> Values;
+
     private bool collapseNavMenu = true;
 
     private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
@@ -35,4 +39,14 @@
         collapseNavMenu = !collapseNavMenu;
     }
 
+    public static void Method2(string[] args)
+    {
+        int number;
+        Method1(new Element(), out number);
+    }
+    public static List<int> Method1(this Element element, out int number)
+    {
+        number = 0;
+        return new List<int>();
+    }
 }

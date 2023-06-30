@@ -1,4 +1,6 @@
-﻿namespace ClassLibraryClassic
+﻿using System.Collections.Generic;
+
+namespace ClassLibraryClassic
 {
     // mestake
     // correctly written comment
@@ -11,8 +13,9 @@
         public void Method()
         {
             var (x, y) = (33, 33.5);
-            (double, int) t1 = (4.5, 3);
+            var t1 = (4.5, 3);
             (double Sum, int Count) t2 = (4.5, 3);
+            var (list, number) = (new List<int>(), 5);
         }
     }
 }

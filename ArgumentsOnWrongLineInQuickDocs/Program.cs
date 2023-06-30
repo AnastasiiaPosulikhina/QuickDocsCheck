@@ -14,6 +14,7 @@ namespace ArgumentsOnWrongLineInQuickDocs
             int number;
             Console.WriteLine("Hello World!");
             Method(new Element(), out number);
+            Console.WriteLine();
         }
 
 

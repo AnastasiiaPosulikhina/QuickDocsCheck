@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NqI3uUq2W5knFTWQUX5mYigDeLMzA3oi0rW1d7U9XI0abeSw4bBvvluw0zHnULLdFiV1e5kK/atkjBTbjl3cDg==",
+  "dgSpecHash": "LcSpNuzIiP7haQNJPZ8zgiiqjb2mztUETSe5zbzCm0axctY5OjwkgA0aVh9040AZkBeF+//tZz3CEx1xBGQfaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\QuickDocsCheck\\ConsoleAppFSharp\\ConsoleAppFSharp.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\fsharp.core\\7.0.400-beta.23221.1\\fsharp.core.7.0.400-beta.23221.1.nupkg.sha512"
   ],
   "logs": []
 }

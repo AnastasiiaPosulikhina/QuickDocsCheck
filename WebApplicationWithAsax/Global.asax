@@ -1,4 +1,5 @@
 <%@ Application Codebehind="Global.asax.cs" Language="C#" %>
+<%@ Import Namespace="System.Collections.Generic" %>
 <%@ Import Namespace="System.Data" %>
 <script runat="server">
 	
@@ -7,10 +8,13 @@
 	void Foo(string bar)
 	{
 		var dataTable = new DataTable();
+		string Value;
+		List<string> Values;
 		int i = 0;
-		System.Console.WriteLine(dataTable);
+		
+
 		new StringBuilder();
-		var number = 555;
+		var number = bar;
 	}
 
 

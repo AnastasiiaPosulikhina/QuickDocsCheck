@@ -3,7 +3,6 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickD
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\bin\Debug\net5.0\KeyValuePairsInQuickDocs.runtimeconfig.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\bin\Debug\net5.0\KeyValuePairsInQuickDocs.runtimeconfig.dev.json
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\bin\Debug\net5.0\KeyValuePairsInQuickDocs.dll
-C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\bin\Debug\net5.0\ref\KeyValuePairsInQuickDocs.dll
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\bin\Debug\net5.0\KeyValuePairsInQuickDocs.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\obj\Debug\net5.0\KeyValuePairsInQuickDocs.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\obj\Debug\net5.0\KeyValuePairsInQuickDocs.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickD
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\obj\Debug\net5.0\KeyValuePairsInQuickDocs.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\obj\Debug\net5.0\KeyValuePairsInQuickDocs.genruntimeconfig.cache
 C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\obj\Debug\net5.0\KeyValuePairsInQuickDocs.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\KeyValuePairsInQuickDocs\obj\Debug\net5.0\refint\KeyValuePairsInQuickDocs.dll

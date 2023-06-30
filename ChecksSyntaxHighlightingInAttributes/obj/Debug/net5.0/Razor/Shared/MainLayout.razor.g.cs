@@ -82,7 +82,7 @@ using ChecksSyntaxHighlightingInAttributes.Shared;
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998
-        protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
+        protected override void BuildRenderTree(global::Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
             __builder.OpenElement(0, "div");
             __builder.AddAttribute(1, "class", "page");
@@ -90,7 +90,7 @@ using ChecksSyntaxHighlightingInAttributes.Shared;
             __builder.OpenElement(3, "div");
             __builder.AddAttribute(4, "class", "sidebar");
             __builder.AddAttribute(5, "b-oghj52e2f2");
-            __builder.OpenComponent<ChecksSyntaxHighlightingInAttributes.Shared.NavMenu>(6);
+            __builder.OpenComponent<global::ChecksSyntaxHighlightingInAttributes.Shared.NavMenu>(6);
             __builder.CloseComponent();
             __builder.CloseElement();
             __builder.AddMarkupContent(7, "\r\n\r\n    ");
@@ -101,15 +101,13 @@ using ChecksSyntaxHighlightingInAttributes.Shared;
             __builder.OpenElement(12, "div");
             __builder.AddAttribute(13, "class", "content px-4");
             __builder.AddAttribute(14, "b-oghj52e2f2");
-            __builder.AddContent(15, 
 #nullable restore
 #line 14 "C:\Users\Anastasiia.Posulikhi\RiderProjects\QuickDocsCheck\ChecksSyntaxHighlightingInAttributes\Shared\MainLayout.razor"
-             Body
+__builder.AddContent(15, Body);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.CloseElement();
             __builder.CloseElement();

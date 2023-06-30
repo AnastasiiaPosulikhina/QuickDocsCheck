@@ -5,8 +5,13 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <DefineConstants>TRACE;DEBUG_COMPONENT</DefineConstants>
+    </PropertyGroup>
+
     <ItemGroup>
-        <Compile Include="Program.fs"/>
+        <Compile Include="Program.fs" />
+        <Compile Include="Test.fs" />
     </ItemGroup>
 
 </Project>

@@ -4,4 +4,12 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="TestDir\Test.razor" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ClassLibraryCoreWithSummaries\ClassLibraryCoreWithSummaries.csproj" />
+    </ItemGroup>
+
 </Project>
